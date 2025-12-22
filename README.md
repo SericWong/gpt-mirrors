@@ -34,7 +34,8 @@
 | [chatgpt 中文版](https://chat.aimirror123.com) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o，内置MidJourney绘图，适合开发、创作与日常使用 |
 | [chatgpt镜像站](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, MidJourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，支持AI助手、插件扩展及多场景应用 |
 | [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合多模型体验 |
-| [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 5次免费试用 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合初次尝试，含少量广告 |
+| [claude 镜像](https://www.claude-site.com/) | claude4.5, grok4.1 | 5次免费试用 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合初次尝试 |
+| [gemini 镜像](https://www.gemini-tool.com/) | GPT-5, gemini3.0 | 5次免费试用 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合初次尝试 |
 
 ---
 
